@@ -1,13 +1,12 @@
-<!-- ## Hi there 👋 -->
+<!-- ## Hi there 👋 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Laksh+Jain." alt="Typing SVG" /></a>
+-->
 
 <!-- A colorful and eye-catching Typing SVG for your GitHub README -->
 <a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=FF5733&background=000000&center=true&vCenter=true&width=500&lines=Hi!+I+am+Laksh+Jain.;Welcome+to+my+GitHub+profile!" 
-    alt="Typing SVG" 
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hi!+I+am+Laksh+Jain." alt="Typing SVG" />
 </a>
+
 
 
 <!--
