@@ -115,10 +115,11 @@ Here are some ideas to get you started:
 
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jain-Laksh&limit=5&theme=transparent&hide_border=false&bg_color=000000&text_color=00FF00&title_color=00FF00&combine_all_yearly_contributions=true)](https://github.com/Jain-Laksh)
 -->
-### Feel free to connect!
+### Feel free to connect!🤝
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__lakshjain__/)
-<!--[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14729894/romit-mohane)-->
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:23110185@iitgn.ac.in)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lakshjain2005/)
-<!--[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/reckadon)-->
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__lakshjain__/)
 [![Kaggle](./kaggle_logo.png)](https://www.kaggle.com//jainlaksh)
+<!--[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14729894/romit-mohane)-->
+<!--[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/reckadon)-->
