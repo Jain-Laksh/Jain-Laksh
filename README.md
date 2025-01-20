@@ -123,3 +123,5 @@ Here are some ideas to get you started:
 [![Kaggle](./kaggle_logo.png)](https://www.kaggle.com//jainlaksh)
 <!--[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14729894/romit-mohane)-->
 <!--[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/reckadon)-->
+
+<p align="left"><img src = "https://komarev.com/ghpvc/?username=Jain-Laksh&style=for-the-badge&abbreviated=true" /></p>
