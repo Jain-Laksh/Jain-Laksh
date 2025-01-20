@@ -25,13 +25,30 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 
 <p>
-  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=Jain-Laksh&theme=dark&hide_border=false&show_icons=true" alt="Laksh's GitHub Stats" /></a>
+  <a href="https://github.com/Jain-Laksh"><img src="https://github-readme-stats.vercel.app/api?username=Jain-Laksh&theme=dark&hide_border=false&show_icons=true" alt="Laksh's GitHub Stats" /></a>
 </p>
 <p>
-  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Laksh&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
+  <a href="https://github.com/Jain-Laksh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Laksh&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
 </p>
 
 ### 🔝 Top Contributed Repo
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jain-Laksh&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true)](https://github.com/ShardulJunagade)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jain-Laksh&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true)](https://github.com/Jain-Laksh)
 
+<!--
+## 📊 GitHub Stats:
 
+<p>
+  <a href="https://github.com/Jain-Laksh">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jain-Laksh&hide_border=false&show_icons=true&bg_color=000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00" alt="Laksh's GitHub Stats" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Jain-Laksh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Laksh&layout=compact&hide_border=false&bg_color=000000&text_color=00FF00&title_color=00FF00" alt="Top Langs" />
+  </a>
+</p>
+
+### 🔝 Top Contributed Repo
+
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jain-Laksh&limit=5&theme=transparent&hide_border=false&bg_color=000000&text_color=00FF00&title_color=00FF00&combine_all_yearly_contributions=true)](https://github.com/Jain-Laksh)
+-->
